@@ -3,7 +3,7 @@ int main(){
     printf("\t\t\t\t\t\t\tBio Data");
     printf("\n\t\tName :-\t\t\t\tManish Kumar");
     printf("\n\t\tContact :-\t\t\t7370842348");
-    printf("\n\t\tEmail :-\t\t\t&7370manishkumar@gmail.com");
+    printf("\n\t\tEmail :-\t\t\t7370manishkumar@gmail.com");
     printf("\n\t\tDate of birth :\t\t\t01-01-2004");
     printf("\n\t\tGender :\t\t\tMale");
     printf("\n\t\tFather Name :\t\t\tNagendra Singh");
